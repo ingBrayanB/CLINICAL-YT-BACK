@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj": {
                 "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj"
+              },
+              "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj"
               }
             }
           }
@@ -154,7 +157,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -308,6 +315,83 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj",
+        "projectName": "CLINICAL.Persistence",
+        "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

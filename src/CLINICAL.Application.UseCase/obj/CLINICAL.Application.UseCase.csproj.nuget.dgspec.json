@@ -82,7 +82,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\bin\Debug\net7.0\CLINICAL.Utilities.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\bin\Debug\net7.0\CLINICAL.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\bin\Debug\net7.0\CLINICAL.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\refint\CLINICAL.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\ref\CLINICAL.Utilities.dll

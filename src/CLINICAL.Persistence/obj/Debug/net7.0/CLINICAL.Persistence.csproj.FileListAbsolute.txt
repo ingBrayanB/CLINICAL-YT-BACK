@@ -1,0 +1,17 @@
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Persistence.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Persistence.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Persistence.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.csproj.CopyComplete
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\refint\CLINICAL.Persistence.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\ref\CLINICAL.Persistence.dll

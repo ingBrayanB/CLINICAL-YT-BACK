@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CLINICAL.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CLINICAL.Domain/CLINICAL.Domain.csproj",
+      "msbuildProject": "../CLINICAL.Domain/CLINICAL.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CLINICAL.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

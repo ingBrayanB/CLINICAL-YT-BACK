@@ -1,0 +1,15 @@
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.csproj.CopyComplete
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\refint\CLINICAL.Application.Interface.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\ref\CLINICAL.Application.Interface.dll

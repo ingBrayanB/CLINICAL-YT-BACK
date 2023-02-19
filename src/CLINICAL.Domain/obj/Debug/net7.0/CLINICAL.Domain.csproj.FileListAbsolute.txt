@@ -1,0 +1,12 @@
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\refint\CLINICAL.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\ref\CLINICAL.Domain.dll

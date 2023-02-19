@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVA/x7dHSKTXTYXvlkEvxCp8k+rQTo9K3R2/r3o98GdQimxMgQm3M17R2b78XDATUG8MHfw23w1ynSkFJVVaig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,5 +5,7 @@ namespace CLINICAL.Application.Interface
     public interface IAnalysisRepository
     {
         Task<IEnumerable<Analysis>> ListAnalysis();
+        Task<Analysis> AnalysisById(int analysisId);
+        Task<bool> AnalysisRegister(Analysis analysis);
     }
 }

@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj",
       "projectName": "CLINICAL.Infrastructure",
-      "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj",
+      "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\obj\\",
+      "outputPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
-              "projectPath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj"
+            "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
+              "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj"
             }
           }
         }
@@ -102,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

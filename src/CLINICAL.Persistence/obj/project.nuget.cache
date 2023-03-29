@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wmHzsLN0Jt2fFaTpbJzqGDIo768egEqzdAEMg6K1IzL2I3Y/ZyXnOS6PYS3ulccVBjcxuphlFupsqLvMei4nmA==",
+  "dgSpecHash": "oh3y3+lBLv79OyG35ix3HlgVQR8kwze9aiZKk0R0uQ2zQNUyazmitKIrpkkbd07FIxrxmfds0DXK4HatlpW0Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adrian M Valencia\\OneDrive\\Escritorio\\OneDrive\\INFO ADRIAN\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj",
+  "projectFilePath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Persistence\\CLINICAL.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

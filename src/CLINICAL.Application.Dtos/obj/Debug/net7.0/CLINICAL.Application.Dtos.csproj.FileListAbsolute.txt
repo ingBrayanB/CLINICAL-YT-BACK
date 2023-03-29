@@ -10,3 +10,15 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLI
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\refint\CLINICAL.Application.Dtos.dll
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\ref\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.deps.json
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.csproj.AssemblyReference.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.AssemblyInfoInputs.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.AssemblyInfo.cs
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\refint\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\ref\CLINICAL.Application.Dtos.dll

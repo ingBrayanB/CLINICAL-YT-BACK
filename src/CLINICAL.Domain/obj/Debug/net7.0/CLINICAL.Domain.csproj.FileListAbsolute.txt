@@ -10,3 +10,15 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLI
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\refint\CLINICAL.Domain.dll
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.pdb
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\ref\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.deps.json
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.AssemblyReference.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfoInputs.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfo.cs
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\refint\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\ref\CLINICAL.Domain.dll

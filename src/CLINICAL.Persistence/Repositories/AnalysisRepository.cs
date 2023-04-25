@@ -57,5 +57,34 @@ namespace CLINICAL.Persistence.Repositories
 
             return recordsAffected > 0;
         }
+
+        public async Task<bool> AnalysisEdit(Analysis analysis)
+        {
+            using var connection = _context.CreateConnection;
+
+            var query = "uspAnalysisEdit";
+
+            var parameters = new DynamicParameters();
+            parameters.Add("AnalysisId", analysis.AnalysisId);
+            parameters.Add("Name", analysis.Name);
+
+            var recordsAffected = await connection.ExecuteAsync(query, param: parameters, commandType: CommandType.StoredProcedure);
+
+            return recordsAffected > 0;
+        }
+
+        public async Task<bool> AnalysisRemove(int analysisId)
+        {
+            using var connection = _context.CreateConnection;
+
+            var query = "uspAnalysisRemove";
+
+            var parameters = new DynamicParameters();
+            parameters.Add("AnalysisId", analysisId);
+
+            var recordsAffected = await connection.ExecuteAsync(query, param: parameters, commandType: CommandType.StoredProcedure);
+
+            return recordsAffected > 0;
+        }
     }
 }

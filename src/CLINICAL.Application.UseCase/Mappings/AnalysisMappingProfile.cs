@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using CLINICAL.Application.Dtos.Analysis.Response;
 using CLINICAL.Application.UseCase.UseCases.Analysis.Commands.CreateCommand;
+using CLINICAL.Application.UseCase.UseCases.Analysis.Commands.UpdateCommand;
 using CLINICAL.Domain.Entities;
 
 namespace CLINICAL.Application.UseCase.Mappings
@@ -17,6 +18,7 @@ namespace CLINICAL.Application.UseCase.Mappings
                 .ReverseMap();
 
             CreateMap<CreateAnalysisCommand, Analysis>();
+            CreateMap<UpdateAnalysisCommand, Analysis>();
         }
     }
 }
